@@ -55,6 +55,8 @@ source : https://fr.wikipedia.org/wiki/Association_française_de_normalisation
 Tout jeune de 16 à 25 ans peut compléter sa formation initiale dans le cadre de formation alternée ou en alternance). Elles ont pour objectif de permettre aux jeunes d'acquérir une qualification professionnelle,
 de s'adapter à un emploi ou à un type d'emploi ou de faciliter l'insertion ou l'orientation professionnelles.
 
+/*- Alternance :*/
+
 - Analyse de besoin (de formation) :
 Démarche permettant de définir le besoin de formation (voir besoin de formation).
 
@@ -82,6 +84,9 @@ source : https://fr.wikipedia.org/wiki/Animateur_de_formation
 Site internet de Pôle Emploi qui met à disposition une plateforme pour que les usagers d'une formation puissent laisser leurs avis sur la formation effectuée auprès d'un organisme de formation ou financeur.
 Source : https://anotea.pole-emploi.fr
 
+- AO :
+Appel d'Offre
+
 - Apprentissage :
 L'apprentissage est une forme d'éducation alternée. Il a pour but de donner à de jeunes travailleurs ayant satisfait à l'obligation scolaire une formation générale, théorique et
 pratique, en vue de l'obtention d'une qualification professionnelle sanctionnée par un
@@ -98,6 +103,13 @@ Le sens subjectif du verbe, construit avec à, (1080) correspond à « contrac
 L’assertivité est considérée comme l’art de faire passer un message difficile sans passivité mais aussi sans agressivité.
 Pour Joseph Wolpe, c'est une expression libre de toutes émotions vis-à-vis d’un tiers, à l’exception de l’anxiété.
 Andrew Salter est un psychologue New-Yorkais, il définit l'assertivité comme « la capacité à s'exprimer et à défendre ses droits sans empiéter sur ceux des autres ». L'assertivité est donc une forme d'affirmation de soi dans le respect de l'autre.
+
+- Autoformation :
+Formation sans cadre
+
+- répertoire spéficifique :
+
+- Atelier de co-création :
 
 - ANI :
 "Accord National Interprofessionnel"
@@ -143,6 +155,16 @@ Le Blended-learning (également appelé formation mixte) est un dispositif de fo
 Le mot « Blended learning » vient de l’anglais: « blend » qui signifie mélange et « learning » signifie apprentissage.
 Le Blended learning permet donc d’associer des cours par téléphone des cours sur Internet des cours en visio-conférence et des cours particuliers ou collectifs en face-à-face.
 
+- Brainstorming :
+remue meninges
+
+- C2i2e :
+C'est le certificat informatique et internet niveau 2 - Enseignant
+Il atteste des compétences professionnelles dans l'usage pédagogique du numérique, indispensable pour les formateurs. Reconnu pas les professionnels, ce certificat est utile, voire nécessaire, aux personnes qui se destinent à ces métiers.
+Les compétences évaluées sont regroupées dans un référentiel qui sert de base de travail pour le formateur qui souhaite s'y inscrire.
+Voir sur le fichier : Capforms -> "3.enrichir-ses-activités-pédagogiques..."
+
+
 - CAFOC :
 "Centre Académique de la Formation Continue".
 
@@ -169,6 +191,12 @@ Descriptif des actions de formation établi par un dispensateur de formation. Le
 "Compte professionnel de Prévention"
 Le compte professionnel de prévention (C2P) permet de déterminer et de référencer les facteurs de risques supportés par un travailleur au-delà de certains seuils. En fonction de son exposition à ces risques, le salarié cumule des points sur son C2P.
 source : https://www.service-public.fr/particuliers/vosdroits/F15504
+
+- CDC :
+"cahier des charge"
+
+- CDO :
+"cahier des charge de l'offre"
 
 - CEC :
 "Compte d’Engagement Citoyen"
@@ -223,7 +251,7 @@ C'est qqn qui sait fédérer les gens.
 La communication interpersonnelle, appelée aussi comportementale, se définit par l'échange de messages et de codes entre deux individus. La notion de distance constitue un vecteur très important de la communication, car elle permet d'identifier quel genre de communication les interlocuteurs s'octroient.
 
 - Congruance :
-la congruance, c'est dire ce que je fais et faire ce que je dis. Dit autrement "etre exemplaire".
+la congruance, c'est dire ce que je fais et faire ce que je dis. Dit autrement "être exemplaire".
 
 - Conscientiser :
 Prise de conscience. Didactique
@@ -237,17 +265,17 @@ Table des matières détaillée des différents sujets traités dans la formatio
 - Contrôle de connaissance :
 Vérification de l'acquisition de savoirs. C'est un contrôle peut être oral ou écrit.
 
-- Coordinateur :
-Construire en commun
-
 - Constitutif :
 1. Qui appartient à la nature même de quelque chose
 2. Qui établit juridiquement un droit
 On peut dire que ça respecte le droit établi, puisque le RC introduit le décret en page de garde ?
 
+- Coordinateur :
+Construire en commun
+
 - COPANEF :
 "Comité Paritaire interprofessionnel National pour l’Emploi et la Formation".
-Il constitue l’instance de gouvernance politique paritaire nationale et interprofessionnelle en matière de formation professionnelle et d’emploi. C’est le COPANEF qui élabore la liste nationale des formations éligibles au CPF, après consultation du CNEFOP. Le législateur a préféré cet acronyme « COPANEF » à celui précédemment choisi par les rédacteurs de l’ ANI du 14/12/2013 (CPNFPE) pour désigner l’instance qui vient succéder à l’ancien CPNFP (Comité Paritaire National de la Formation Professionnelle)
+Il constitue l’instance de gouvernance politique paritaire nationale et interprofessionnelle en matière de formation professionnelle et d’emploi. C’est le COPANEF qui élabore la liste nationale des formations éligibles au CPF, après consultation du CNEFOP. Le législateur a préféré cet acronyme « COPANEF » à celui précédemment choisi par les rédacteurs de l’ ANI du 14/12/2013 (CPNFPE) pour désigner l’instance qui vient succéder à l’ancien CPNFP (Comité Paritaire National de la Formation Professionnelle).
 
 - COPAREF :
 "Les Comités Paritaires Interprofessionnels Régionaux pour l’Emploi et la Formation".
@@ -267,6 +295,9 @@ Elles déterminent les modalités d’application de l’Accord National Interpr
 - CPNE :
 "Commission Paritaire Nationale de l’Emploi".
 Il en existe une par branche professionnelle. Elle examine la situation de l’emploi et son évolution pour définir la politique de formation de la branche et fixer les grandes orientations qui sont mises en œuvre par l’OPCA de branche.
+
+- CRP :
+"Centre de Rééducation Professionnel"
 
 - CPRDFOP :
 "Contrat de Plan Régional de Développement des Formations et de l’Orientation Professionnelle".
@@ -360,6 +391,15 @@ Dans le cadre de la communication, l'écoute active est une façon structurée d
 - Empirico inductive :
 La démarche empirique inductive aussi appelée inductive est une méthode de travail qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
 
+- Emploi-type :
+Un emploi-type est un regroupement de situations d'emplois, elles-mêmes étant un regroupement de postes de travail, suffisamment proches dans leurs activités ou compétences, pour être étudiés de façon globale.
+
+- EIAO :
+Enseignement Interactif d'Apprentissage d'Ordinateur
+
+- EAO :
+"Enseignement Assité par Ordinateur"
+
 - EP :
 "Entretien Proffessionnel"
 
@@ -396,7 +436,8 @@ Succession ordonnée de niveaux de formation permettant de s'orienter dans un se
 Tous les moyens financiers mis en oeuvre pour réaliser la formation, par l'état, les collectivités territoriales, les entreprises et les formés.
 
 - FOAD :
-tutorat pédagogique
+"Formation Ouverte Distance"
+Dispositif souple de formation organisé en fonction des besoins individuels ou collectifs qui comporte des apprentissages individualisés et l’accés à des ressources et compétences locales ou à distance. Elle n’est pas exécutée nécessairement sous le contrôle permanent d’un formateur.
 
 - Formalise :
 Poser explicitement dans une théorie déductive les règles de formation des propositions et les règles de déduction suivant lesquelles on raisonne.
@@ -449,6 +490,10 @@ Formation durant laquelle les intéractions avec le formateur ou entre les autre
 
 - FSE :
 ?"Fond européen".?
+
+- Heuristique :
+L'heuristique ou euristique est « l'art d'inventer, de faire des découvertes » en résolvant des problèmes à partir de connaissances incomplètes. Ce type d'analyse permet d'aboutir en un temps limité à des solutions acceptables. Celles-ci peuvent s'écarter de la solution optimale.
+source : Wikipédia
 
 - Individualisation :
 Adaptation des objectifs de formation, les modalités pédagogiques, et la durée et/ou rythme de formation en fonction des besoins et des contraintes de l'apprenant.
@@ -511,6 +556,12 @@ Ces rubriques peuvent être représentées graphiquement sous la forme d'une 
 - MDA :
 "Maison des artistes"
 
+- MDPH :
+"la Maison Départementale pour les Personnes Handicapées"
+
+- Méta :
+Se mettre au dessus
+
 - Métacognitif en éducation :
 Dans le domaine de la psychologie de l'éducation, le terme désigne la composante du savoir d'un individu qui concerne les processus mêmes du savoir (acquisition, perpétuation, modification), en quelque sorte « ce qu'il sait de sa façon de savoir ».
 
@@ -519,6 +570,7 @@ En psychologie la métacognition consiste à avoir une activité mentale sur ses
 
 - Métacognition :
 Activité de l'apprenant qui s'exerce à partir du moment où il n'est plus dans l'action mais dans une réflexion, verbalisée ou non, sur cette action. C'est une réflexion sur une conduite cognitive (acuisition, mémorisation, raisonnement, résolution de problème, etc.)(Vocabualire technique de la formation - Afpa - colleciton repères - 1997).
+Définition de Marie-catherine : métacognition, on observe notre propre pratique. Prendre de la hauteur sur sa propre action.
 
 - Méthode inductive :
 La démarche inductive, aussi appelée approche empirico-inductive, est une méthode de travail qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
@@ -552,6 +604,12 @@ Combinaison d'outils et d'organisations permettant de mettre en œuvre différen
 - Moyen pédagogique :
 Tout procédé matériel ou immatériel utilisé dans le cadre d’une méthode pédagogique : lecture d’ouvrages étude de cas mise en situation utilisation de films de jeux…
 
+- MTOS :
+"Méthode technique Outils Supports"
+
+- Multimodal :
+La multimodalité en formation, c'est la combinaison des moyens et situations pédagogiques mis à disposition d'un apprenant pour lui permettre de réaliser son apprentissage dans les meilleures conditions possibles, en termes de lieux, de temps, de supports et d'outils numériques.
+
 - NSF :
 "Nomenclature de Spécialités de Formation".
 source ; https://www.insee.fr/fr/metadonnees/definition/c1389
@@ -563,7 +621,7 @@ Qui émet des jugements de valeur, institue des règles, des principes.
 1. Compétence(s) à acquérir à améliorer ou à entretenir exprimée(s) initialement par les commanditaires et/ou les formés.
 L’objectif de formation est l’élément fondamental des cahiers des charges. Il sert à évaluer les effets de la formation( norme Afnor NF X50-750 Août 2015).
 
-- Objectif pédagogique :
+- Objectif pédagogique(OP) :
 Capacité(s) que l'apprenant doit avoir acquise à l'issue d'une action ou d'une séquence(s) de formation, définie(s) par l'équipe pédagogique, à partir d'un objectif de formation.
 Note : l'objectif pédagogique sert à construire et à conduire l'action de formation, et évaluer les capacités acquises (norme Afnor NF X50-750 Août 2015).
 
@@ -576,6 +634,9 @@ Note : l'objectif pédagogique sert à construire et à conduire l'action de for
 - ONPMQ :
 "Observatoire National Paritaire des Métiers et des Qualifications".
 Il en existe un au niveau de chaque branche. Il réalise et diffuse des études sur l’évolution prévisionnelle des Métiers et des Qualifications dans la branche.
+
+- OP :
+"Objectif Pédagogique"
 
 - OPAC :
 "Organisme Prestataire d’Actions concourant au développement des Compétences".
@@ -675,15 +736,8 @@ par un organisme accrédité par le Cofrac (il en existe une trentaine actuellem
 par l’une des 7 instances de labellisation désignées par France Compétences. Ces dernières, cependant, s’adressent à des publics précis, et leur capacité à délivrer Qualiopi est provisoire (3 ans).
 https://www.managementdelaformation.fr/gestion-de-la-formation/2021/11/09/qualiopi-quest-ce-qui-change-pour-les-entreprises-en-2022/
 
-- RC :
-"Référenciel de Certification", du titre Professionnel.
-
-- Référenciel  :
-Document de référence partagé dresant de manière structurée l'inventaire des éléments constitutif d'un métier, d'un emploi, d'une formation ou d'une certification. On parle par exemple de référenciel de compétences, de référentiel d'activité, de référentiel de formation, de référentiel de certification… Il peut avoir un caractère informatif ou normatif.
-
-- Remédiation :
-Soutien apporté aux apprenants qui ont du mal à acquérir les fondamentaux (lecture, écriture, calcul).
-Pour mettre en place une remédiation on utilisera les "techniques de remédiation".
+- Réajustement :
+Adjustement est une action qui rectifie une situation pour la faire correspondre à un état précédemment observé.
 
 - REACT :
 "Réferentiel Emploi Activites Compétences".
@@ -691,23 +745,28 @@ La bible de l'FPA, Il décrit et codifie, ce que la formation contient, les obje
 Exemple
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiq3uKcwJv1AhVOhRoKHYSAAT0QFnoECAsQAQ&url=https%3A%2F%2Fwww.banque.di.afpa.fr%2FEspaceEmployeursCandidatsActeurs%2FDownload.aspx%3Fi%3Dc98b4ab5-5b6c-45e2-9920-63dabd7c112b%26d%3D1&usg=AOvVaw0onqHorSsib4gVWBUct3H2
 
-- Réajustement :
-Adjustement est une action qui rectifie une situation pour la faire correspondre à un état précédemment observé.
+- RC :
+"Référenciel de Certification", du titre Professionnel.
+
+- Référenciel  :
+Document de référence partagé dresant de manière structurée l'inventaire des éléments constitutif d'un métier, d'un emploi, d'une formation ou d'une certification. On parle par exemple de référenciel de compétences, de référentiel d'activité, de référentiel de formation, de référentiel de certification… Il peut avoir un caractère informatif ou normatif.
+
+- Réfléxive  :
+source : https://www.youtube.com/watch?v=w0HH6MR3g28
+Analyse des ses pratiques Professionnelles
+1/
+L'analyse d'une pratique retrospective sur son activité. Souvent par l'analyse de sa propre action, on s'apercois qu'il y'a 1 bon dans l'apprentissage considérable
+source : https://www.youtube.com/watch?v=wfrcTqVbTH8
+
+- Remédiation :
+Soutien apporté aux apprenants qui ont du mal à acquérir les fondamentaux (lecture, écriture, calcul).
+Pour mettre en place une remédiation on utilisera les "techniques de remédiation".
 
 - Réferentiel :
 C'est une grille de repère et qui évalue les compétences.
 
 - Ressource pédagogique :
 Unité pédagogique visant un ou plusieurs objectifs pédagogiques. Note : la séquence peut etre entendue d'un point de vue macro (plusieurs objectifs p´´dagogiques visés)a ou micro (ne concerne qu'un seul objectif pédagogique) (norme Afnor NF X50-750 Août 2015).
-
-- Séquence pédagogique :
-Unité pédagogique visant un ou plusieurs objectifs pédagogiques. Note : la séquence peut etre entendue d'un point de vue macro (plusieurs objectifs p´´dagogiques visés)a ou micro (ne concerne qu'un seul objectif pédagogique) (norme Afnor NF X50-750 Août 2015).
-
-- Social Learning :
-?
-
-- Socioconstructivisme :
-? source : https://onedrive.live.com/view.aspx?resid=9110FA290B16D465!1175&ithint=file%2cdocx&authkey=!ApZXYIH2QZKbdmg
 
 - CDC :
 "Caisse de Dépots et de Consignation"
@@ -717,17 +776,6 @@ Unité pédagogique visant un ou plusieurs objectifs pédagogiques. Note : la s�
 
 - Classe virtuel :
 
-- SPOC :
-
-- Alternance :
-
-- Autoformation :
-Formation sans cadre
-
-- répertoire spéficifique :
-
-- Atelier de co-création :
-
 - CDO ;
 ?
 
@@ -736,7 +784,8 @@ Formation sans cadre
 
 - RNCP :
 "Répertoire National des Certifications Professionnelles".
-Il recense l’ensemble des Certifications Professionnelles répertoriées par la CNCP.
+Il recense l’ensemble des Certifications Professionnelles répertoriées par la CNCP. On peut dire que se sont l'ensemble des compétences.
+C'est un référentiel.
 
 - ROI :
 "Return On Investisment"
@@ -752,17 +801,23 @@ https://www.francecompetences.fr/recherche_certificationprofessionnelle/
 - SAS :
 ?
 
+- Scénario pédagogique Global (SPG):
+
+- Scénario pédagogique :
+« Un scénario pédagogique est le déroulement d’une activité d’apprentissage, la définition des objectifs, la planification des tâches, la description des tâches des apprenants et des modalités d’évaluation » (Lando, 2003)
+source : http://edutechwiki.unige.ch/fr/Scénario_pédagogique
+
 - Séances/approche reflexives :
 C'est la capacité à se remettre en question dans le but d'analyser et d'évaluer ses actes en lien avec sa pratique tout au long de sa carrière professionnelle. Cette pédagogie active augmente le transfert d'apprentissage, puisqu'on encourage un retour de la pensée sur elle-même.
 Cette approche favorise le développement des 2 niveaux de réflexion :
 • l'analyse réflexive en cours d'action : elle consiste à penser dans l'action et à modifier celle-ci au moment même où le professionnel agit
 • l'analyse réflexive sur l'action : elle comporte une démarche plus approfondie d’analyse de l’action, de ses causes et conséquences.
 
-- Scénario pédagogique :
-« Un scénario pédagogique est le déroulement d’une activité d’apprentissage, la définition des objectifs, la planification des tâches, la description des tâches des apprenants et des modalités d’évaluation » (Lando, 2003)
-source : http://edutechwiki.unige.ch/fr/Scénario_pédagogique
+- Séquence :
+Le terme séquence a remplacé le terme séance dans le nouveau REAC car plus "générique". Sa définition selon le glossaire du REAC : Unité pédagogique visant un ou plusieurs objectifs pédagogiques. Note : la séquence peut être entendue d’un point de vue macro (plusieurs objectifs pédagogiques visés) ou micro (ne concerne qu’un seul objectif pédagogique) (norme Afnor NF X50-750 Août 2015)
 
-- Scénario pédagogique Global (SPG):
+- Serious game :
+Désigne des jeux à visés des pédagogiques
 
 - SIEG :
 La loi du 5 mars 2014 pose les bases d’un Service d’Intérêt Economique Général de la formation. Pour assurer la formation des publics en difficulté, la région peut, par voie de convention, habiliter des organismes en charge de réaliser ces actions. La durée de l’habilitation ne peut excéder 5 ans.
@@ -771,8 +826,30 @@ La loi du 5 mars 2014 pose les bases d’un Service d’Intérêt Economique Gé
 "Formation professionnelle d'adultes".
 Niveau bac+4.
 
+- Social Learning :
+?
+
+- Socioconstructivisme :
+? source : https://onedrive.live.com/view.aspx?resid=9110FA290B16D465!1175&ithint=file%2cdocx&authkey=!ApZXYIH2QZKbdmg
+
+- socio-economique :
+Adjectif. Relatif aux problèmes sociaux dans leur relation avec les problèmes économiques.
+
+- Socio-professionnel :
+Se dit des catégories utilisées pour classer une population selon l'activité professionnelle (ex. agriculteur, ouvrier, etc.).
+
+- Social learning :
+"Apprentissage par les Réseaux"
+Apprentissage par les réseaux. Mode d'acquisition et de partage de connaissances et de compétences, qui se pratique en dehors d'un cadre institutionnel et repose sur l'utilisation d'outils collaboratifs offerts par l'internet et les réseaux sociaux.
+
 - SP :
 "Scénario Pédagogique"
+
+- SPD :
+"Scénario Pédagogique Détaillé"
+
+- SPG :
+"Scénario Pédagogique Global"
 
 - SPE :
 "Service public de l’Emploi".
@@ -781,12 +858,17 @@ Niveau bac+4.
 "Service Public de l’Orientation".
 Tout au long de la vie. Il est assuré par l’État et les régions.
 
+- SPOC :
+
 - SPRFD :
 "Service Public Régional de la Formation Professionnelle".
 Dans le cadre du SPRDFP, la Région" peut accorder des aides individuelles à la formation et coordonne les interventions contribuant au financement d’actions de formation au bénéfice des publics dont elle est chargée" (loi du 5/03/14, art. 22 et 24). Ces publics sont les jeunes et les adultes à la recherche d’un emploi ou d’une nouvelle orientation professionnelle.
 
 - Surseoir :
 Verbe transitif - surseoit : "Différer une action, une décision"
+
+- Synoptique :
+adj. Qui offre une vue générale d'un ensemble.
 
 - Système affectif :
 Le système affectif qui est la motivation.
@@ -796,19 +878,31 @@ Le système cognitive qui se déroule autour des connaissances.
 
 - Système métacognitif :
 Le système métacognitif qui est l'expérience(le savoir).
-
 - Taxonomie :
-La taxonomie organise l'information de façon hiérarchique, de la simple restitution de faits jusqu'à la manipulation complexe des concepts, qui est souvent mise en œuvre par les facultés cognitives dites supérieures.
-https://fr.wikipedia.org/wiki/Taxonomie_de_Bloom
+Une taxonomie est un ensemble hiérarchisé de connaissances ou de comportements d’apprentissage.
+Les catégories définies dans la taxonomie y sont classées selon un ordre de complexité croissante et un principe d’exclusion : Un niveau diffère de tous les autres, il nécessite la connaissance des niveaux précédents, et conditionne l’accès au niveau suivant.
+Il existe plusieurs taxonomies classifiées selon des principes différents dans 3  domaines :
+- Domaine Cognitif
+- Domaine Psychomoteur
+- Domaine Affectif
 
 - Taxonomie de Bloom :
 La taxonomie de Bloom est un modèle de la pédagogie proposant une classification des niveaux d'acquisition des compétences.
+Elle appartient au "domaine cognitif".
+
+- Technique pédagogique :
+Il s'agit du moyen permettant de mettre en place une pratique pédagogique. Exemple : le débat est une technique pédagogique.
 
 - TESE :
 "le Titre Emploi Service Entreprise"
 C'est un dispositif gratuit du réseau des Urssaf destiné à simplifier les formalités sociales liées à l'emploi de salariés et à faire gagner du temps aux employeurs dans la gestion administrative de leur personnel.
 Par exemple, les fiches de payent sont gratuites, il y'a beaucoups d'avantages.
 https://www.letese.urssaf.fr/portail/accueil/s-informer-sur-offre-de-service/essentiel-du-tese.html
+
+- TIC(E):
+"Technologies de l'Information et de la Communication (pour l'Enseignement)"
+Se prononce "tisse"
+Outils et produits numériques pouvant être utilisés dans le cadre de l'éducation et de l'enseignement
 
 - Transversale / compétence transversale :
 "Compétence transversale"
@@ -832,10 +926,21 @@ X Simultanéité en « multitâches »
 ? Former les salariés sur le tas
 
 - Typologie :
+1. Science de l'élaboration des types, facilitant l'analyse d'une réalité complexe et la classification.
+2. Système de types. Une typologie des langues africaines.
 Une typologie est une démarche méthodique consistant à définir ou étudier un ensemble de types, afin de faciliter l'analyse, la classification et l'étude de réalités complexes. Par extension, le terme typologie désigne parfois la liste des types propres à un domaine d'étude. Le terme doit alors s'employer au singulier : la typologie (singulier) détaille un ensemble de types (pluriel).
-
 
 - VAE :
 "La validation des acquis de l'expérience"
 La VAE permet d'obtenir, en totalité ou en partie, un diplôme, un titre ou un certificat de qualification professionnelle, qui sera inscrit au Répertoire national des certifications professionnelles (RNCP). Procédure entreprise en vue d'une reconnaissance institutionnelle des acquis. Acte officiel par lequel ces acquis sont reconnus.
 https://www.education.gouv.fr/la-validation-des-acquis-de-l-experience-vae-3077
+
+- VAP :
+"La validation des Acquis Professionnel"
+
+- Verbalisé :
+Exprimer (qqch.) par le langage.
+
+- ZPD :
+"Zone Proximale de Développement"
+Pour le cours voir les taxonomies
