@@ -15,11 +15,7 @@ Ensemble des savoirs et savoir-faire dont une personne manifeste la maîtrise da
 Situation didactique dans laquelle l'aprenant est appelé à réaliser une ou plusieurs tâches lui permettant de mobiliser ou d'acquérir des savoirs des compétences. (d'après scallon, Gérard. L'évaluation des apprentissages dans une approche par compétences, Montréal, Éditions du Renouveau pédagogique, 2004, p. 121).
 
 - Action de formation(AF) :
-Mise en oeuvre effective de la formation, conformément à un programme établi en amont d'après les objectifs de formation et précisant les moyens pédagogiques, techniques et d'encadrement, ainsi que le dispositif de l'exécution de la formation et d'appréciation des résultats.
-+ Ensemble (objectif, programme, moyens pédagogiques et d'encadrement, suivi de l'exécution et appréciation des résultats) mis en oeuvre, dans un temps déterminé ou non, nécessaire pour permettre à des personnes sorties du système scolaire d'atteindre un niveau de connaissances ou de savoir-faire constituant l'objectif de formation.
-L'action de formation peut avoir pour objet : l'adaptation, la promotion, la prévention, l'acquisition, l'entretien ou le perfectionnement des connaissances.
-Au sens légal les actions de formation financées par les employeurs se déroulent conformément à un programme qui, établi en fonction d'objectifs préalablement déterminés, précise les moyens pédagogiques et d'encadrement
-mis en oeuvre et définit un dispositif permettant de suivre l'exécution de ce programme et d'en apprécier les résultats.
+Ensemble (objectif, programme, moyens pédagogiques et d'encadrement, suivi de l'exécution et appréciations des résultats) mise en œuvre, dans un temps déterminé ou non, nécessaire pour permettre à des personnes sortie du système scolaire d'atteindre un niveau de connaissances ou de savoir-faire constituant l'objectif de formation.
 
 - Adaptive learning :
 
@@ -57,8 +53,8 @@ de s'adapter à un emploi ou à un type d'emploi ou de faciliter l'insertion ou 
 
 /*- Alternance :*/
 
-- Analyse de besoin (de formation) :
-Démarche permettant de définir le besoin de formation (voir besoin de formation).
+- Analyse des besoins de formation :
+Démarche permettant de mesurer l'écart entre les compétences nécessaires pour exercer un travail et les compétences réelles d'un individu à un moment donné.
 
 - Analyse de la demande :
 Opération consistant à examiner la pertinence d'un projet de formation par rapport aux objectifs poursuivis par le demandeur.
@@ -80,16 +76,21 @@ source : https://fr.wikipedia.org/wiki/Animateur_de_formation
 - Andragogue :
 "Formateur pour adulte"
 
+- Animateur :
+Celui qui est chargé de conduire de stimuler et de faciliter le travail d'un groupe en formation. La fonction de formateur est différente dans le sens où un animateur n'est pas forcément reconnu comme expert métier. Il doit donc maîtriser des outils d'animation.
+
 - ANOTEA :
 Site internet de Pôle Emploi qui met à disposition une plateforme pour que les usagers d'une formation puissent laisser leurs avis sur la formation effectuée auprès d'un organisme de formation ou financeur.
 Source : https://anotea.pole-emploi.fr
 
 - AO :
-Appel d'Offre
+Appel d'offre
+
+- APC :
+Approche par compétence
 
 - Apprentissage :
-L'apprentissage est une forme d'éducation alternée. Il a pour but de donner à de jeunes travailleurs ayant satisfait à l'obligation scolaire une formation générale, théorique et
-pratique, en vue de l'obtention d'une qualification professionnelle sanctionnée par un
+L'apprentissage est une forme d'éducation alternée. Il a pour but de donner à de jeunes travailleurs ayant satisfait à l'obligation scolaire une formation générale, théorique et pratique, en vue de l'obtention d'une qualification professionnelle sanctionnée par un
 diplôme de l'enseignement professionnel ou technologique du second degré ou du supérieur ou un ou plusieurs titres homologués.
 Par extension à cette définition légale, l'apprentissage peut être un ensemble d'activités qui permettent à une personne d'acquérir ou d'approfondir des connaissances, ou de développer des aptitudes.
 
@@ -104,8 +105,14 @@ L’assertivité est considérée comme l’art de faire passer un message diffi
 Pour Joseph Wolpe, c'est une expression libre de toutes émotions vis-à-vis d’un tiers, à l’exception de l’anxiété.
 Andrew Salter est un psychologue New-Yorkais, il définit l'assertivité comme « la capacité à s'exprimer et à défendre ses droits sans empiéter sur ceux des autres ». L'assertivité est donc une forme d'affirmation de soi dans le respect de l'autre.
 
-- Autoformation :
-Formation sans cadre
+- Attestation de présence :
+Document écrit à usage administratif qui certifie l'assiduité du stagiaire une formation.
+
+- Attestation de stage :
+Document écrit remis aux stagiaires qui certifie la participation du stagiaire à une formation.
+
+- Auto-formation :
+Mode de formation de l'individu par lui-même. L'auto-formation fait appel à des ressources pédagogiques, matériel et / ou humaine. Le numérique facilite grandement cette activité.
 
 - répertoire spéficifique :
 
@@ -125,6 +132,9 @@ Saisir quelque chose par l'entendement, la pensée.
 - Apprenance :
 Cela correspond à l'hypothèse optimiste que la personne prend en charge sont apprentissage et ne se contente d'être "formée".
 Explication issu du livre "Le guide pratique du formateur" par D. Noyé et J. Piveteau.
+
+- Assertivité :
+Andrew Salter définit l'assertivité comme « la capacité à s'exprimer et à défendre ses droits sans empiéter sur ceux des autres ». L'assertivité est donc une forme d'affirmation de soi dans le respect de l'autre.
 
 - Audit de formation :
 Analyse d'un système de formation destinée à établir un diagnostic. Elle peut s'appliquer à une organisation dans le cadre de son fonctionnement général, à un dispositif ou à une action de formation.
@@ -169,7 +179,7 @@ Voir sur le fichier : Capforms -> "3.enrichir-ses-activités-pédagogiques..."
 "Centre Académique de la Formation Continue".
 
 - Cahier des charges :
-Documents décrivant les prestations attendues par le commanditaire et leurs modalités d'exécution. Il précise notamment les objectifs de formation, ainsi que les éléments administratifs, pédagogiques, financiers et organisationnels.
+Documents contractuels fixant les modalités d'exécution d'une action de formation. Ce document contient les éléments administratifs, pédagogique, financier et organisationnel pour atteindre des objectifs déterminés.
 
 - Capacité (du stagiaire) :
 Ensemble des performances constatées qui peuvent être définies par un ou des référentiels de contenu de formation. Les capacités sont souvent exprimées en termes de savoirs et savoir-faire.
@@ -191,6 +201,9 @@ Descriptif des actions de formation établi par un dispensateur de formation. Le
 "Compte professionnel de Prévention"
 Le compte professionnel de prévention (C2P) permet de déterminer et de référencer les facteurs de risques supportés par un travailleur au-delà de certains seuils. En fonction de son exposition à ces risques, le salarié cumule des points sur son C2P.
 source : https://www.service-public.fr/particuliers/vosdroits/F15504
+
+- CCS :
+Modalites d’obtention d’un "certificat complementaire de specialisation".
 
 - CDC :
 "cahier des charge"
@@ -218,6 +231,13 @@ Assurance donnée par écrit, reconnaissant au titulaire un certain niveau de ca
 - CIDFF :
 "Centre de Formation pour Des Femmes et des Familles".
 
+- CNCP :
+"Commission Nationale de la Certification Professionnelle".
+Entre autres missions, elle répertorie l’offre de certifications professionnelles (répertoire national des certifications professionnelles), Elle informe les personnes et les entreprises sur les certifications inscrites au répertoire national et sur les certifications reconnues dans les états membres de la communauté européenne. Elle veille à la cohérence, à la complémentarité et au renouvellement des diplômes et des titres ainsi qu’à leur adaptation à l’évolution des qualifications et de l’organisation du travail, Elle émet un avis sur les certifications enregistrées de droit au RNCP.
+
+- CNEFOP :
+À l’issue de la loi relative à la formation votée le 27/02/14, il succède au CNFPTLV (Conseil National de la formation tout au long de la vie). Ses attributions sont définies à l’article L 6123-1 du Code du Travail. Il donne un avis sur tous les textes relatifs à la formation professionnelle, y compris les textes réglementaires. Il est destinataire des listes éligibles au CPF, ce qui facilitera son rôle « dans l’évaluation du suivi de la mise en oeuvre et du développement de l’utilisation des actions financées dans le cadre du CPF « . Il évalue la politique d’apprentissage et de formation professionnelle. Les organisations multi-professionnelles (FNSEA, UNAPL, et Udes), hors champ, sont intégrées dans la composition du CNEFOP.
+
 - Code NAF :
 "Nomenclature des Activités Françaises".
 C'est un code qui est attribué par l’INSEE, à une entité commerciale (entreprise ou travailleur indépendant) pour identifier sa branche d’activité principale.
@@ -226,12 +246,8 @@ https://infonet.fr/lexique/definitions/code-naf/
 - Compétence professionnelle :
 Mise en oeuvre de capacités en situation professionnelle qui permettent d'exercer convenablement une fonction ou une activité.
 
-- CNCP :
-"Commission Nationale de la Certification Professionnelle".
-Entre autres missions, elle répertorie l’offre de certifications professionnelles (répertoire national des certifications professionnelles), Elle informe les personnes et les entreprises sur les certifications inscrites au répertoire national et sur les certifications reconnues dans les états membres de la communauté européenne. Elle veille à la cohérence, à la complémentarité et au renouvellement des diplômes et des titres ainsi qu’à leur adaptation à l’évolution des qualifications et de l’organisation du travail, Elle émet un avis sur les certifications enregistrées de droit au RNCP.
-
-- CNEFOP :
-À l’issue de la loi relative à la formation votée le 27/02/14, il succède au CNFPTLV (Conseil National de la formation tout au long de la vie). Ses attributions sont définies à l’article L 6123-1 du Code du Travail. Il donne un avis sur tous les textes relatifs à la formation professionnelle, y compris les textes réglementaires. Il est destinataire des listes éligibles au CPF, ce qui facilitera son rôle « dans l’évaluation du suivi de la mise en oeuvre et du développement de l’utilisation des actions financées dans le cadre du CPF « . Il évalue la politique d’apprentissage et de formation professionnelle. Les organisations multi-professionnelles (FNSEA, UNAPL, et Udes), hors champ, sont intégrées dans la composition du CNEFOP.
+- Contenu de formation :
+Table des matières détaillées des différents sujets traités dans la formation en fonction des objectifs définis.
 
 - Co-counstruit :
 On parle de parcours co-construit
@@ -263,7 +279,7 @@ Exemple : Nous avons conscientisé les chauffeurs de train aux dangers des passa
 Table des matières détaillée des différents sujets traités dans la formation en fonction d'objectifs définis.
 
 - Contrôle de connaissance :
-Vérification de l'acquisition de savoirs. C'est un contrôle peut être oral ou écrit.
+Vérification de l'acquisition des savoirs. Ce contrôle peut être oral ou écrit.
 
 - Constitutif :
 1. Qui appartient à la nature même de quelque chose
@@ -381,6 +397,9 @@ des contrats de prestations de service ayant pour objet la formation. Comprend �
 - DU :
 "Diplome Universitaire"
 
+- EAO :
+"Enseignement Assité par Ordinateur"
+
 - Éco-citoyenneté :
 Comportement individuel ou collectif consistant à observer les principes et les règles destiné à préserver l'environnement(Larousse en ligne).
 
@@ -388,17 +407,20 @@ Comportement individuel ou collectif consistant à observer les principes et les
 Stéphane "c'est ecouter intérieurement et extérieurement"
 Dans le cadre de la communication, l'écoute active est une façon structurée d'écouter son interlocuteur et de lui répondre. Lorsque vous écoutez de façon active, votre attention se porte sur l'autre personne pour vous permettre de comprendre, d'interpréter et d'évaluer ce qu'elle vous dit.
 
+- Éducation permanente :
+Conception philosophique selon laquelle l'éducation est conçue comme un processus long terme qui commence à la naissance et
+se poursuit toute la vie.
+L'éducation permanente comprend notamment la formation initiale (acquise dans le système scolaire) Et la formation continue (acquise à des individus déjà engagé dans la vie active).
+source : AFNOR X 50-750
+
+- EIAO :
+Enseignement Interactif d'Apprentissage d'Ordinateur
+
 - Empirico inductive :
 La démarche empirique inductive aussi appelée inductive est une méthode de travail qui part de faits, de données brutes réelles et observables, pour aller vers l’explication de celles-ci.
 
 - Emploi-type :
 Un emploi-type est un regroupement de situations d'emplois, elles-mêmes étant un regroupement de postes de travail, suffisamment proches dans leurs activités ou compétences, pour être étudiés de façon globale.
-
-- EIAO :
-Enseignement Interactif d'Apprentissage d'Ordinateur
-
-- EAO :
-"Enseignement Assité par Ordinateur"
 
 - EP :
 "Entretien Proffessionnel"
@@ -407,9 +429,6 @@ Enseignement Interactif d'Apprentissage d'Ordinateur
 Les euristiques de jugement, concept fréquemment employé dans le domaine de la cognition sociale, ce sont des opérations mentales automatiques, intuitives et rapides pouvant être statistiques. Ces raccourcis cognitifs sont utilisés par les individus afin de simplifier leurs opérations mentales dans le but de répondre aux exigences de l’environnement. Par exemple, les gens ont tendance à estimer le temps mis pour trouver un emploi en fonction de la facilité avec laquelle ils peuvent penser à des individus qui ont récemment été engagés, et non selon le temps moyen de recherche dans la population. Les euristiques peuvent apparaitre quotidiennement et par habitude dans la prise de décision, le jugement, l’estimation de probabilité et la prédiction de valeurs.
 
 - Épiac
-
-- Éducation permanente :
-Conception philosophique selon laquelle l'éducation est conçue comme un processus à long terme qui commence à la naissance et se poursuit toute la vie. L'éducation permanente comprend notamment la formation initiale (acquise dans le système scolaire) et la formation continue (acquise par des individus déjà engagés dans la vie active).
 
 - E-formation :
 Formation entièrement déroulée sur internet, la métode pédagogique associée est le "connectivisme".
@@ -425,6 +444,9 @@ Action d'expliciter, de rendre explicite, clair.
 
 - Expliciter :
 Qui s'exprime complètement et clairement sans laisser place à l'ambiguïté : Je serai explicite : vous êtes un incapable.
+
+- Facilitateur :
+Le facilitateur ou animateur de groupe (en anglais : facilitator) aide un groupe à comprendre ses objectifs communs et l'accompagne pour s'organiser et atteindre ces objectifs. Il emploie le plus souvent des outils et méthodes d'intelligence collective pour faciliter les réunions.
 
 - FFP :
 "Fédération de la formation professionnel"
@@ -452,12 +474,43 @@ Situation d'acquisition de compétences exclusivement dans le contexte de travai
 - Formation action :
 Méthode alliant apprentissage et production, basé sur le traitement de cas issue de contacts de travail de l'apprenant.
 
+- Formation alternée (ou en alternance) :
+Méthode pédagogique qui associe :
+- des enseignements généraux professionnelles et technologiques dispensés dans des organismes de formation ;
+- l'acquisition d'un savoir-faire par l'exercice en entreprise d'une activité professionnelle en relation avec les enseignements reçus.
+
+- Formation externe :
+Mise en œuvre par une entreprise d'actions de formation à l'usage de son personnel en ayant recours à un dispensateur de formation extérieur.
+
+- Formation de formateurs :
+Enseignement qui peut comprendre des connaissances disciplinaires, psychopédagogiques, sociologiques, des connaissances relatives au public de formation, à la gestion de la formation, à l'entreprise au dispositif de la formation professionnelle continue…
+Improprement utiliser au sens large pour la formation des acteurs de la formation, ou pour la formation des professionnels de la formation.
+
+- Formation initiale :
+Ensemble des connaissances acquises, en principe avant l'entrée dans la vie active, en tant qu'élève, étudiant ou apprenti. Peux comprendre des enseignements généraux et éventuellement de la formation professionnelle.
+
+- Formation interentreprises :
+Enseignement qui regroupe des salariés de diverses entreprises dans une même formation.
+
+- Formation interne :
+Mise en œuvre d'actions de formation par une entreprise au profit de son personnel, en utilisant ses propres moyens pédagogiques.
+L'entreprise arrête la conception de l'action de formation et conserve la maîtrise directe de son organisation pédagogique et de son déroulement matériel.
+
+- Formation Intras-entreprise :
+Enseignement qui regroupe les salariés d'une même entreprise. La formation peut être interne ou externe.
+
 - Formation multimodale :
 Dispositif de formation qui combine des séquences d'apprentissage présentiel est à distance, transmis SIF et collaboratif, DJ auto dirigée, former et informelle. Synonyme : dispositif hybride, blende-learning.
 source : Norme Afnor NF X 50-750
 
-- Facilitateur :
-Le facilitateur ou animateur de groupe (en anglais : facilitator) aide un groupe à comprendre ses objectifs communs et l'accompagne pour s'organiser et atteindre ces objectifs. Il emploie le plus souvent des outils et méthodes d'intelligence collective pour faciliter les réunions.
+- Formation professionnelle permanente :
+Elle comporte une formation initiale et des formations ultérieures destiné aux adultes et aux jeunes déjà engagé dans la vie active ou qui s'y engagent. Ces Formations ultérieures constituent la formation professionnelle continue.
+
+- Formation professionnelle continue :
+La formation professionnelle continue fait partie de l'éducation permanente. Elle a pour objet de permettre l'adaptation des travailleurs au changement des techniques et des conditions de travail, de favoriser leur promotion sociale par accès aux différents niveaux de culture et de qualification professionnelle et leur contribution au développement culturel, économique et social.
+Elle peut être dispensé elle est salarié titulaire d'un contrat de travail prévoyant une formation en alternance.
+Formation exclusive en situation de travail (Formation sur le tas).
+Formation empirique assurée dans les conditions habituelles de travail. Son objet est principalement de faire acquérir une pratique professionnelle sans apport extérieur organisé.
 
 - FPA :
 "Formateur Professionnel d'Adulte".
@@ -495,6 +548,12 @@ Formation durant laquelle les intéractions avec le formateur ou entre les autre
 L'heuristique ou euristique est « l'art d'inventer, de faire des découvertes » en résolvant des problèmes à partir de connaissances incomplètes. Ce type d'analyse permet d'aboutir en un temps limité à des solutions acceptables. Celles-ci peuvent s'écarter de la solution optimale.
 source : Wikipédia
 
+- Gestion de la formation :
+Organisation et suivi des activités nécessaires à la planification, la coordinations des ressources humaines et matérielles, la gestion budgétaire et l'évaluation des actions de formation.
+
+- Homologation :
+Procédure de validation d'un titre ou d'un diplôme délivré par un dispensateur de formation publique ou privée. Cette validation est accordée par le premier ministre. L'homologation fait référence à un niveau de formation.
+
 - Individualisation :
 Adaptation des objectifs de formation, les modalités pédagogiques, et la durée et/ou rythme de formation en fonction des besoins et des contraintes de l'apprenant.
 
@@ -510,15 +569,7 @@ Qui informe, vise à informer, exemple : Publicité informative.
 
 - Ingénierie de la formation :
 Ensemble de démarches méthodologiques cohérentes qui s’appliquent à la conception de systèmes d’actions et de dispositifs de formation pour atteindre efficacement l’objectif fixé.
-L’ingénierie de formation peut comprendre l’analyse de la demande des besoins de formation le diagnostic la conception du projet formatif les moyens mis en œuvre la coordination et le contrôle de sa mise en œuvre et l’évaluation de la formation.
-
-- Ingénierie pédagogique :
-Concevoir un référentiel de formation en lien avec un référentiel d’emploi et compétences.
-Le référentiel de formation est l’inventaire des compétences visées par la formation, des contenus pédagogiques associés et des critères de réussite. C’est notamment un outil d’aide à la construction d’une formation certifiante. Il sert de cahier des charges pour les formateurs, mais également de support de communication entre l’organisme de formation, les évaluateurs, les bénéficiaires… Dans un contexte de rationalisation de l’activité professionnelle, la compétence est au cœur de la fabrication des référentiels. Cette formation vous permettra de revisiter cette notion, de distinguer les fonctions et finalités des différents référentiels (métiers et compétences, formation, certification), de comprendre leur articulation et leurs techniques d’élaboration.
-source : https://www.centre-inffo.fr/offre-formation-produits-services/notre-offre-de-formation/concevoir-un-referentiel-de-formation-en-lien-avec-un-referentiel-demploi-et-competences
-
-- Intra :
-Formation dans les locaux de l'entreprise et en présentiel ou 100 % à distance.
+L'ingénierie de formation comprend l'analyse des besoins de formation, La conception du projet formatif, la coordination et le contrôle de sa mise en œuvre et l'évaluation des effets de la formation.
 
 - IMC :
 "Identification des marchés cibles".
@@ -549,6 +600,10 @@ La succession des lettres LMNOP est un moyen mnémotechnique permettant de clas
 • Personnel.
 Ces rubriques peuvent être représentées graphiquement sous la forme d'une «arête de poisson» (ISHIKAWA)
 *Photo en annexe.
+
+- Logistique :
+Art de combiner tous les moyens matériels, humains et pédagogiques pour mettre en œuvre une formation.
+Ce terme ne doit pas être employé pour désigner chacun de ses moyens isolément.
 
 - MAFEST :
 "la Maison de la Formation en Situation de Travail".
@@ -583,7 +638,8 @@ La démarche déductive, aussi appelée approche hypothéticodéductive, est une
 https://www.scribbr.fr/methodologie/methodes-inductives-deductives/
 
 - Méthode pédagogique :
-Les 5 méthodes pédagogique sont :
+Ensemble de démarches formalisées suivies selon des principes définis pour que le formé acquière un ensemble de savoirs conforme aux objectifs de formation.
+4 méthodes pédagogique :
 * constructivisme
 * connectivisme
 * socio
@@ -595,8 +651,13 @@ Le mimétisme est une stratégie adaptative d'imitation. Cela permet par exemple
 - Modularisation :
 La modularisation consiste à découper des formations en modules distincts et permet de structurer des parcours qui tiennent compte à la fois des objectifs de formation et des acquis de l'apprenant. Elle est une condition essentielle de l'Individualisation des Parcours.
 
+- Module :
+Segment élémentaire intégré ou intégrable dans un cursus de formation. Chaque module, constitue un tout en soi. Il est définie par un objectif de formation, des pré-requis, une durée et un contenu.
+
 - Modalité pédagogique :
-Combinaison d'outils et d'organisations permettant de mettre en œuvre différents formats de formation, pouvant inclure le présentiel enrichi, la formation synchrone et asynchrone, la distance et présentiel, l'indidualisation, l'auto formation, l'alternance…
+Tous procédés, matériel ou immatériel, utilisés dans le cadre d'une méthode pédagogique :
+Lecture d'ouvrage, étude de cas, film, jeux, mise en situation…
+Le moyen pédagogique est à la disposition du formateur.
 
 - MOOC :
 "Massive Open Online Courses" est un cours en ligne ouvert à tous.
@@ -610,6 +671,14 @@ Tout procédé matériel ou immatériel utilisé dans le cadre d’une méthode 
 - Multimodal :
 La multimodalité en formation, c'est la combinaison des moyens et situations pédagogiques mis à disposition d'un apprenant pour lui permettre de réaliser son apprentissage dans les meilleures conditions possibles, en termes de lieux, de temps, de supports et d'outils numériques.
 
+- Niveau de formation :
+I : Personnel occupant des emplois exigeant notamment une formation de niveau égal ou supérieur à celui de la licence ou des écoles de ingénieurs.
+II : Personnel occupant des emplois exigeant normalement des formations d'un niveau comparable à celui de la licence ou de la maîtrise.
+III : Personnel occupant des emplois exigeant normalement une formation de niveau de brevet de technicien supérieur ou du diplôme des institut universitaire de technologie et de fin de premier cycle de l'enseignement supérieur.
+
+- Niveau de qualification :
+Situation d'un individu dans une grille de qualification qui répartit les connaissances et le savoir-faire dans un métier (ou ensemble de métiers proches) entre différents postes. Le niveau de qualification prend en compte les compétences (essentiellement techniques), le niveau de complexité des opérations à réaliser et les degrés d'autonomie, décision et dans ce d'anticipation.
+
 - NSF :
 "Nomenclature de Spécialités de Formation".
 source ; https://www.insee.fr/fr/metadonnees/definition/c1389
@@ -618,8 +687,10 @@ source ; https://www.insee.fr/fr/metadonnees/definition/c1389
 Qui émet des jugements de valeur, institue des règles, des principes.
 
 - Objectif de formation :
-1. Compétence(s) à acquérir à améliorer ou à entretenir exprimée(s) initialement par les commanditaires et/ou les formés.
-L’objectif de formation est l’élément fondamental des cahiers des charges. Il sert à évaluer les effets de la formation( norme Afnor NF X50-750 Août 2015).
+L'objectif d'une action de formation professionnelle au profit de salariés d'une entreprise, apparaît comme le but précis qu'elle se propose d'atteindre et vise une évolution des savoirs et des savoir-faire des salariés à partir de leurs compétences.
+Il convient néanmoins de distinguer :
+- objectif de formation : énonce ce que les formés doivent être capable de faire dans les situations de travail (compétences). Ils sont exprimés initialement par les commanditaires et / ou les formés. Ils sont les éléments fondamentaux des cahiers des charges d'une formation, et
+- objectifs pédagogiques : expriment ce que les formés doivent apprendre (capacités). Ils sont définis par le formateur à partir des objectifs de formation. Ils servent à construire évaluer les actions de formation.
 
 - Objectif pédagogique(OP) :
 Capacité(s) que l'apprenant doit avoir acquise à l'issue d'une action ou d'une séquence(s) de formation, définie(s) par l'équipe pédagogique, à partir d'un objectif de formation.
@@ -649,6 +720,12 @@ https://www.managementdelaformation.fr/gestion-de-la-formation/2021/11/09/qualio
 "les Opérateurs de Compétences"
 https://travail-emploi.gouv.fr/ministere/acteurs/partenaires/opco
 
+- Organisation de la formation :
+Agencement des différentes séquences de formation du point de vue matériel et pédagogique.
+
+- Organisme de formation :
+Voir dispensateur de formation.
+
 - Organismes paritaires :
 Les organismes paritaires "collecteurs agréés" ont d’abord la charge de récolter les taxes relatives à la formation auprès des entreprises. En effet, pour les entreprises, la contribution à la formation professionnelle est une obligation légale.
 Ils gèrent également les actions de formation que les entreprises mettent en oeuvre.
@@ -660,9 +737,17 @@ Ils gèrent également les actions de formation que les entreprises mettent en o
 "Plan Académique de Formation".
 Il permet aux personnels de l'académie de se former dans le cadre de la formation professionnelle tout au long de la vie.
 
+- Partenariat :
+Relation contractuelle entre deux ou plusieurs personnes physiques ou morales concourant à réaliser un projet par la mise en commun de moyens matériels, intellectuels, humains ou financiers.
+
 - PDC :
 "Plan de développent des compétences"
 Il remplace le "Plan de formation".
+
+- Pédagogie active :
+Méthode d'enseignement consistant à faire acquérir des connaissances, des compétences au formé, à son initiative et par son activité propre.
+La situation pédagogique suggère au former des questions dont le traitement lui apporte une expérience et un acquis supplémentaire.
+Elle prend appui sur la motivation du former et provoque le désir de l'action de l'activité.
 
 - PFMP :
 "Périodes de Formation en Milieu Professionnel".
@@ -672,8 +757,9 @@ Il remplace le "Plan de formation".
 https://www.digiforma.com/definition/protocole-individuel-de-formation-pif/
 
 - Plan de formation (de l’entreprise) :
-Document finalisé par la direction d’une entreprise afin de prévoir mettre en oeuvre et évaluer la formation de son personnel pour une période donnée.
-Il recense et hiérarchise les actions de formation qui seront organisées pour le personnel de l’entreprise. Il indique les publics visés le budget et les résultats attendus.
+Document finalisé par la direction d’une entreprise afin d'assurer la formation de son personnel pour une période donnée. Il s'inscrit dans la stratégie de l'entreprise.
+Ils indiquent le public visé, les actions de formation planifiés, le budget et les résultats attendus.
+Le plan de formation est soumis chaque année pour avis au comité d'entreprise (plus deux 50 salariés) et aux délégués du personnel (moins de 50 salariés).
 
 - PL :
 "Plan de Formation", il est remplacé par le PDC: "Plan de développent des compétences"
@@ -708,6 +794,19 @@ Préalable nécessaire voir indispensable pour suivre une formation déterminée
 
 - Présentiel :
 Formation qui réunit les participants et un formateur dans un milieu pour une durée prédéterminés.
+
+- Prestataire de formation :
+Voir dispensateur de formation.
+
+- Processus cognitif :
+Démarche d'acquisition des connaissances et mécanismes individuels d'apprentissage.
+
+- Produits pédagogiques :
+Ensemble organisé d'outils pédagogiques.
+
+- Programme de (formation) :
+Descriptif détaillé des contenus de formation planifier chronologiquement pour respecter une progression pédagogique.
+Le programme de formation se présente sous forme d'un document écrit, faisant mention des différentes phases prévues, pratique ou théorique et les modalités de leur déroulement, pour atteindre le but recherché.
 
 - Progression pédagogique :
 Étape structuré et progressive correspondant à des objectifs pédagogiques, visant à transmettre le contenu d'un programme de formation (d'après la norme  Afnor NF X50-750 Août 2015).
@@ -748,8 +847,12 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiq3uKc
 - RC :
 "Référenciel de Certification", du titre Professionnel.
 
+- Reconnaissance des acquis :
+Prise en compte du capital de formation et d'expériences qu'un individu peut prouver pour lui-même et pour autrui (dispensateur de formation, employeur…)
+La reconnaissance des acquis peut conduire à la validation des acquis.
+
 - Référenciel  :
-Document de référence partagé dresant de manière structurée l'inventaire des éléments constitutif d'un métier, d'un emploi, d'une formation ou d'une certification. On parle par exemple de référenciel de compétences, de référentiel d'activité, de référentiel de formation, de référentiel de certification… Il peut avoir un caractère informatif ou normatif.
+Liste d'une série d'actes, de performances observables détaillant un ensemble de capacités (référentiel de formation) ou de compétences (référentiel de métier).
 
 - Réfléxive  :
 source : https://www.youtube.com/watch?v=w0HH6MR3g28
@@ -762,8 +865,8 @@ source : https://www.youtube.com/watch?v=wfrcTqVbTH8
 Soutien apporté aux apprenants qui ont du mal à acquérir les fondamentaux (lecture, écriture, calcul).
 Pour mettre en place une remédiation on utilisera les "techniques de remédiation".
 
-- Réferentiel :
-C'est une grille de repère et qui évalue les compétences.
+- Responsable de formation :
+Dans une entreprise, personne chargée de la conception, de la mise en œuvre, du suivi et de l'évaluation du plan de formation.
 
 - Ressource pédagogique :
 Unité pédagogique visant un ou plusieurs objectifs pédagogiques. Note : la séquence peut etre entendue d'un point de vue macro (plusieurs objectifs p´´dagogiques visés)a ou micro (ne concerne qu'un seul objectif pédagogique) (norme Afnor NF X50-750 Août 2015).
@@ -800,6 +903,15 @@ https://www.francecompetences.fr/recherche_certificationprofessionnelle/
 
 - SAS :
 ?
+
+- Savoir :
+Ensemble des connaissances théoriques et pratiques.
+
+- Savoir-être :
+Terme impropre renvoyant à un ensemble de comportement et d'attitude dans une situation donnée.
+
+- Savior-faire :
+Mise en œuvre d'un savoir et d'une habilité pour une réalisation spécifique.
 
 - Scénario pédagogique Global (SPG):
 
@@ -842,6 +954,9 @@ Se dit des catégories utilisées pour classer une population selon l'activité 
 "Apprentissage par les Réseaux"
 Apprentissage par les réseaux. Mode d'acquisition et de partage de connaissances et de compétences, qui se pratique en dehors d'un cadre institutionnel et repose sur l'utilisation d'outils collaboratifs offerts par l'internet et les réseaux sociaux.
 
+- Sous-traitance de la formation :
+Action de délégué à un dispensateur qualifié tout ou partie de l'exécution d'une action de formation selon les directives sous la responsabilité du donneur d'ordre.
+
 - SP :
 "Scénario Pédagogique"
 
@@ -863,6 +978,12 @@ Tout au long de la vie. Il est assuré par l’État et les régions.
 - SPRFD :
 "Service Public Régional de la Formation Professionnelle".
 Dans le cadre du SPRDFP, la Région" peut accorder des aides individuelles à la formation et coordonne les interventions contribuant au financement d’actions de formation au bénéfice des publics dont elle est chargée" (loi du 5/03/14, art. 22 et 24). Ces publics sont les jeunes et les adultes à la recherche d’un emploi ou d’une nouvelle orientation professionnelle.
+
+- Suivi de formation :
+Moyens et techniques mises en œuvre pour évaluer et faire évoluer une action de formation.
+
+- Suport pédagogique :
+Moyen matériel utilisé dans le cadre d'une méthode pédagogique (transparents, cassettes audio et vidéo, plan de cours, livres, jeux…). Le support pédagogique est à la disposition du formateur.
 
 - Surseoir :
 Verbe transitif - surseoit : "Différer une action, une décision"
@@ -922,18 +1043,24 @@ X Communication, pédagogie, résilience
 • Propriété intellectuelle, enjeux financiers
 X Simultanéité en « multitâches »
 
+- Tuteur :
+Employés de l'entreprise chargé d'encadrer, de former, d'accompagner une personne durant sa période de formation afin de faciliter son intégration dans l'entreprise.
+Le tuteur est choisi dans l'entreprise compte tenu de son niveau de compétence. Il est chargé de la liaison entre l'organisme de formation et les salariés de l'entreprise qui participent à l'acquis par la personne en formation de compétences professionnelles.
+
 - Tutorat :
-? Former les salariés sur le tas
+Action d'associés, pour une période donnée, une personne confirmée du domaine de compétence est une personne débutante du même domaine.
 
 - Typologie :
 1. Science de l'élaboration des types, facilitant l'analyse d'une réalité complexe et la classification.
 2. Système de types. Une typologie des langues africaines.
 Une typologie est une démarche méthodique consistant à définir ou étudier un ensemble de types, afin de faciliter l'analyse, la classification et l'étude de réalités complexes. Par extension, le terme typologie désigne parfois la liste des types propres à un domaine d'étude. Le terme doit alors s'employer au singulier : la typologie (singulier) détaille un ensemble de types (pluriel).
 
-- VAE :
-"La validation des acquis de l'expérience"
+- Validation des acquis(VAE) :
+Procédure entreprise en vue d'une reconnaissance institutionnelle des acquis.
+Acte officiel par lequel ces acquis sont reconnus.
 La VAE permet d'obtenir, en totalité ou en partie, un diplôme, un titre ou un certificat de qualification professionnelle, qui sera inscrit au Répertoire national des certifications professionnelles (RNCP). Procédure entreprise en vue d'une reconnaissance institutionnelle des acquis. Acte officiel par lequel ces acquis sont reconnus.
 https://www.education.gouv.fr/la-validation-des-acquis-de-l-experience-vae-3077
+
 
 - VAP :
 "La validation des Acquis Professionnel"
