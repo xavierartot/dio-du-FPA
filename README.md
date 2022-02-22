@@ -1,5 +1,5 @@
 # dio-du-FPA
-titre : Formation Professionnel d'adulte(FPA)
+Dictionnaire de formateur
 • Glossaire
 • Terminologie
-• Glossaire du REACT
+• Glossaire du REACT pour le tire FPA
